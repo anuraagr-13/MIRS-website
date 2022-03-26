@@ -3,10 +3,11 @@ Movie Review and Identification System(Nicknamed MIRS)
 
 It is a website created using Angular CLI to see movies with high ratings and substantiate our passion for movies.
 
-Folders:
+# Folders:
 
-Attachments -  Contains rough dashboards for the design of the pages
+**Attachments** -  Contains rough dashboards for the design of the pages
 
-Collaborators:
+Collaborators:  
+
 Akshay Arora
 Tejus
