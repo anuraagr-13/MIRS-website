@@ -9,5 +9,5 @@ It is a website created using Angular CLI to see movies with high ratings and su
 
 Collaborators:  
 
-Akshay Arora
-Tejus
+Akshay Arora. 
+Tejus Verma. 
